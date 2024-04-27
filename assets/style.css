@@ -127,7 +127,7 @@ table {
     margin-left:1rem;
 }
 
-.mary {
+.mary, .grotto {
     display:block;
     float:right;
     width: 17%;
