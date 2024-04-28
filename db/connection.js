@@ -1,5 +1,5 @@
-const { maryapp } = require('pg');
-const db = new maryapp({
+const { Pool } = require('pg');
+const db = new Pool({
   host: 'localhost',
   user: 'postgres',
   password: 'Twinkie01!',
