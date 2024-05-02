@@ -155,3 +155,21 @@ table {
     margin-bottom:1rem;
 
 }
+
+.doves {
+    display:block;
+    float:right;
+    width: 15%;
+    height: auto;
+    margin-left:1rem;
+    margin-bottom: 1rem;
+}
+
+.dayApparition {
+    display: block;
+    float: right;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    margin-left:1rem;
+    width: 20%;
+}
