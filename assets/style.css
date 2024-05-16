@@ -153,16 +153,6 @@ table {
     height: auto;
     margin-right: 1rem;
     margin-bottom:1rem;
-
-}
-
-.doves {
-    display:block;
-    float:right;
-    width: 15%;
-    height: auto;
-    margin-left:1rem;
-    margin-bottom: 1rem;
 }
 
 .dayApparition {
@@ -172,4 +162,15 @@ table {
     margin-bottom: 1rem;
     margin-left:1rem;
     width: 20%;
+}
+
+.retouch {
+    display: block;
+    justify-content: center;
+    width: 25%;
+    margin: 1rem auto;
+}
+
+.certainty {
+    text-align: center;
 }
