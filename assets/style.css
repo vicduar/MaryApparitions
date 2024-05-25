@@ -46,7 +46,7 @@ sup {
 .appSites {
     display:block;
     float:left;
-    height:28rem;
+    height:30rem;
     width: auto;
     margin-right:1rem;
     margin-bottom: 1rem;
@@ -55,7 +55,7 @@ sup {
 .europeApp {
     display:block;
     float:right;
-    height:15rem;
+    height:20rem;
     width: auto;
     margin-left: 1rem;
     margin-bottom: 1rem;
