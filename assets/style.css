@@ -174,3 +174,10 @@ table {
 .certainty {
     text-align: center;
 }
+
+.foot {
+    font-size: 15px;
+    border-top: solid 2px black;
+    width: 90%;
+    margin: 1rem;
+}
